@@ -1,7 +1,7 @@
 <h1 align="center">Login Form Project</h1>
 
 <p align="center>
-    <img scr="assets\printScreen\project.png" width="100%">
+    <img scr="./assets\printScreen\project.png" width="100%">
 </p>
 
 ## Tecnologias usadas
